@@ -2,9 +2,8 @@
 
 # 2022 год
 
-[Программа](https://npm.mipt.ru/youtrack/articles/EDU-A-8/)
+[Программа](https://youtrack.sciprog.center/projects/STUD/articles/STUD-A-22/Statisticheskie-metody-i-analiz-dannyh)
 
-[Задания](https://npm.mipt.ru/youtrack/articles/EDU-A-5/)
+[Задания](https://youtrack.sciprog.center/projects/STUD/articles/STUD-A-7/Zadaniya)
 
-[Правила сдачи](https://npm.mipt.ru/youtrack/articles/EDU-A-7/)
-
+[Правила сдачи](https://youtrack.sciprog.center/projects/STUD/articles/STUD-A-9/Usloviya-polucheniya-ocenki)
